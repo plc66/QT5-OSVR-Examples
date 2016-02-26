@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QT-OSVR-Link-FBO">
+        <file>demo.qml</file>
+    </qresource>
+</RCC>
